@@ -2,8 +2,6 @@
 
 This is a fork of the official [gem5 repo](https://gem5.googlesource.com/public/gem5/) that implements the GPU architecture for [PWS](https://dl.acm.org/doi/10.1145/3609102).
 
-For the most up to date logic that implements SWF merging, see branch reconv.
-
 ## Docker Setup Guide
 
 The instructions for setting up the docker container for running the GPU model are found [here](https://www.gem5.org/documentation/general_docs/gpu_models/GCN3).
