@@ -1,4 +1,4 @@
-# gem5
+# gem5 for PWS GPU
 
 This is a fork of the official [gem5 repo](https://gem5.googlesource.com/public/gem5/) that implements the GPU architecture for [PWS](https://dl.acm.org/doi/10.1145/3609102).
 
